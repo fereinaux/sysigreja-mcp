@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "sysigreja",
+  "description": "SysIgreja no Cursor, ChatGPT e Claude: eventos e inscritos da sua igreja. Master vê o backoffice completo. Login pelo navegador (OAuth), sem senha no arquivo.",
+  "version": "1.0.0",
+  "author": {
+    "name": "SysIgreja",
+    "email": "contato@sysigreja.com",
+    "url": "https://sysigreja.com"
+  },
+  "homepage": "https://sysigreja.com",
+  "license": "MIT"
+}

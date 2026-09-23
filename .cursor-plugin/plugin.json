@@ -7,5 +7,6 @@
     "url": "https://sysigreja.com"
   },
   "homepage": "https://sysigreja.com",
-  "license": "MIT"
+  "license": "MIT",
+  "logo": "../assets/logo.png"
 }

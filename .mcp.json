@@ -1,6 +1,7 @@
 {
   "mcpServers": {
     "sysigreja": {
+      "type": "http",
       "url": "https://backend.sysigreja.com/mcp/admin"
     }
   }

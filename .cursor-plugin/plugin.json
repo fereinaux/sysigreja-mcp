@@ -1,7 +1,7 @@
 {
   "name": "sysigreja",
   "description": "SysIgreja: eventos e inscritos da igreja via MCP. Login OAuth no navegador.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "SysIgreja",
     "url": "https://sysigreja.com"

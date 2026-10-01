@@ -1,7 +1,7 @@
 {
   "name": "sysigreja",
   "description": "SysIgreja no Claude Code e Cowork: eventos e inscritos da igreja via MCP. Login OAuth no navegador, sem senha no arquivo.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "SysIgreja",
     "email": "contato@sysigreja.com"
@@ -9,5 +9,11 @@
   "homepage": "https://sysigreja.com",
   "repository": "https://github.com/fereinaux/sysigreja-mcp",
   "license": "MIT",
-  "icon": "./assets/icon.png"
+  "icon": "./assets/icon.png",
+  "mcpServers": {
+    "sysigreja": {
+      "type": "http",
+      "url": "https://backend.sysigreja.com/mcp/admin"
+    }
+  }
 }

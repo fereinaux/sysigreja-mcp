@@ -27,4 +27,4 @@ Repositório público: https://github.com/fereinaux/sysigreja-mcp
 3. **Claude:** https://platform.claude.com/plugins/submit
 4. **ChatGPT:** rascunho With MCP no portal OpenAI — scan das tools depois que o OAuth estiver no ar em produção
 
-Logo: `assets/logo.png`. Site: https://sysigreja.com
+Site: https://sysigreja.com
